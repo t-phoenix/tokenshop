@@ -31,6 +31,36 @@ run $expo start
 select ios/android from browser options OR type initials in terminal
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Authors
 
 Abhinil Agarwal
