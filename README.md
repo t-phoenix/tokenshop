@@ -23,13 +23,18 @@ react-native App demo -----> app demo/ tokenShop Video Demo.mov
 
 
 git clone this repo to reproduce
+
 run $npm i 
+
 run $expo start
+
 select ios/android from browser options OR type initials in terminal
 
 
 Authors
+
 Abhinil Agarwal
+
 Anshuman Mohanty
 
 
