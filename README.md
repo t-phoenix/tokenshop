@@ -3,7 +3,9 @@ tokenShop E-commerce Aggregator app is based on Defi celo based crypto transacti
 
 
 tokenShop App Demo Video
+
 [![](http://img.youtube.com/vi/sEAw4iHADTU/0.jpg)](http://www.youtube.com/watch?v=sEAw4iHADTU "tokenShop App demo video")
+
 https://youtu.be/sEAw4iHADTU
 
 
