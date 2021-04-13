@@ -13,20 +13,61 @@ All has been given in the docs.
 
 
 Business------>  business/leanCanvas.pdf 
+
+
 App Flow -------> app flow/tokenShop flow.pdf
                           /tokenShop flow.png
+                          
+                          
 UI designs-------> UI designs/ [screen name].png
+
+
 react-native App demo -----> app demo/ tokenShop Video Demo.mov
 
 
 git clone this repo to reproduce
+
 run $npm i 
+
 run $expo start
+
 select ios/android from browser options OR type initials in terminal
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Authors
+
 Abhinil Agarwal
+
 Anshuman Mohanty
 
 
